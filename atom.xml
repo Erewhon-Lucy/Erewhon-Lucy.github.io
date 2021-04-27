@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://happylucy.fun</id>
-    <title>Gridea</title>
-    <updated>2021-04-27T12:25:31.790Z</updated>
+    <title>happylucy</title>
+    <updated>2021-04-27T12:31:18.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://happylucy.fun"/>
     <link rel="self" href="http://happylucy.fun/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>小冬快乐的小站</subtitle>
     <logo>http://happylucy.fun/images/avatar.png</logo>
     <icon>http://happylucy.fun/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, happylucy</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>http://happylucy.fun/post/hello-gridea/</id>
